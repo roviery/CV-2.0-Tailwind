@@ -1,0 +1,14 @@
+{
+  "name": "web-cv-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwind -i ./src/css/input.css -o ./dist/css/output.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.16"
+  }
+}
