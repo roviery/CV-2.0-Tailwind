@@ -6,6 +6,7 @@ module.exports = {
         'poppins': "'Poppins', sans-serif"
       },
       colors: {
+        'rov-dark-blue': '#09083D',
         'royal': '#111E6C',
         'azure': '#0800FF',
         'maya': '#73C2FB',
