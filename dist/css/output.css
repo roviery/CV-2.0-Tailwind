@@ -538,6 +538,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-right: 1.5rem;
 }
 
+.mt-32 {
+  margin-top: 8rem;
+}
+
 .mt-10 {
   margin-top: 2.5rem;
 }
@@ -548,14 +552,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .mb-20 {
   margin-bottom: 5rem;
-}
-
-.mt-32 {
-  margin-top: 8rem;
-}
-
-.mt-20 {
-  margin-top: 5rem;
 }
 
 .inline {
@@ -632,11 +628,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 .bg-rov-dark-blue {
   --tw-bg-opacity: 1;
   background-color: rgb(9 8 61 / var(--tw-bg-opacity));
-}
-
-.bg-rov-purple {
-  --tw-bg-opacity: 1;
-  background-color: rgb(84 56 132 / var(--tw-bg-opacity));
 }
 
 .bg-gradient-to-t {
